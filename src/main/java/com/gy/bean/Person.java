@@ -42,6 +42,17 @@ public class Person {
 	}
 	
 	
+	private String postName;
+
+	public String getPostName() {
+		return postName;
+	}
+
+
+
+	public void setString(String postName) {
+		postName = postName;
+	} 
 	
 	
 
